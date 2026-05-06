@@ -1,0 +1,12 @@
+# Security: Never upload API keys or secrets
+.env
+
+# Data Logs: Keep your private trade history local
+*.txt
+*.csv
+*.png
+
+# Python system files
+__pycache__/
+*.pyc
+.streamlit/
