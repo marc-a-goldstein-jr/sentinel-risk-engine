@@ -1,5 +1,5 @@
 # sentinel-risk-engine
-Automated quantitative risk &amp; liquidity engine utilizing REST APIs to monitor real-time market sensitivity, 95% VaR, and portfolio drift.
+Sentinel V5.57 is a Python-based risk management engine that automates portfolio monitoring via the Kraken API. It features a dynamic execution layer that cross-references strategic drift against technical positioning (Support/Resistance) to issue "Strike" or "Block" directives. Key technical accomplishments include persistent High Water Mark (HWM) tracking and 95% Value at Risk (VaR) modeling.
 [Screenshot 1.pdf](https://github.com/user-attachments/files/27422199/Screenshot.1.pdf)
 [Screenshot 2.pdf](https://github.com/user-attachments/files/27422198/Screenshot.2.pdf)
 [Screenshot 3.pdf](https://github.com/user-attachments/files/27422197/Screenshot.3.pdf)
