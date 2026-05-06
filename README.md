@@ -1,9 +1,5 @@
 # sentinel-risk-engine
 Sentinel V5.57 is a Python-based risk management engine that automates portfolio monitoring via the Kraken API. It features a dynamic execution layer that cross-references strategic drift against technical positioning (Support/Resistance) to issue "Strike" or "Block" directives. Key technical accomplishments include persistent High Water Mark (HWM) tracking and 95% Value at Risk (VaR) modeling.
-[Screenshot 1.pdf](https://github.com/user-attachments/files/27422199/Screenshot.1.pdf)
-[Screenshot 2.pdf](https://github.com/user-attachments/files/27422198/Screenshot.2.pdf)
-[Screenshot 3.pdf](https://github.com/user-attachments/files/27422197/Screenshot.3.pdf)
-[Screenshot 4.pdf](https://github.com/user-attachments/files/27422196/Screenshot.4.pdf)
 # Sentinel V5.57 | Dynamic Risk & Execution Engine
 
 Sentinel is a specialized FinTech dashboard designed to bridge the gap between live market data and disciplined trade execution. By integrating with the Kraken REST API, the system provides a "State-Aware" environment that monitors portfolio drift, calculates institutional-grade risk metrics, and enforces execution rules to prevent emotional trading.
