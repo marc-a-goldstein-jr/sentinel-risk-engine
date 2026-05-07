@@ -30,6 +30,15 @@ Networking: ngrok (Secure Tunneling), Krakenex (REST)
 
 Security: Python-Dotenv (Environment Variable Isolation)
 
+⚡ Quick Start
+Clone the repo.
+
+Install dependencies: pip install -r requirements.txt
+
+Add your Kraken API keys to a .env file.
+
+Launch Sentinel: streamlit run app.py
+
 📊 Strategic Logic
 The system enforces a Systematic Rebalancing Engine. It monitors "Portfolio Drift" against a target 65/17.5/17.5 allocation, issuing "Strike" or "Block" directives only when assets cross dynamic technical support/resistance zones. This prevents "over-trading" and ensures capital is only deployed at high-probability entry points.
 
